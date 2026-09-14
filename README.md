@@ -161,10 +161,7 @@ Each semantic annotation image contains the pixel-wise class labels correspondin
 
 The PalmCity dataset can be downloaded from the link given below.
 
-### Dataset
-
-**[### PalmCity Dataset](https://drive.google.com/drive/folders/1CKUzdQ8Tm74A6hHXWGd37NEI1JqTU7Jp)**
-
+**[PalmCity Dataset](https://drive.google.com/drive/folders/1CKUzdQ8Tm74A6hHXWGd37NEI1JqTU7Jp)**
 
 ## 🚀 Getting Started
 

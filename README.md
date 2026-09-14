@@ -62,8 +62,6 @@ PalmCity can also be used to investigate the transferability of models trained o
 
 PalmCity contains **32 semantic classes** representing major components of the urban environment.
 
-A detailed class definition table should be provided here using the official PalmCity label IDs.
-
 | ID | Category | Class | Color |
 |---:|---|---|---|
 | 0 | Flat Surface | Road | ![#804080](https://placehold.co/15x15/804080/804080.png) |

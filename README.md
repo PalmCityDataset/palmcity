@@ -49,10 +49,10 @@ PalmCity can also be used to investigate the transferability of models trained o
 | Primary Task | Semantic Segmentation |
 | Annotation Type | Dense pixel-level semantic masks |
 | Number of Classes | **32 semantic classes** |
-| Number of Images | `{TOTAL_IMAGES}` |
+| Number of Images | `830` |
 | Training Images | `497` |
 | Validation Images | `84` |
-| Test Images | `{TEST_IMAGES}` |
+| Test Images | `249` |
 | Image Resolution | `{ORIGINAL_RESOLUTION}` |
 | Geographic Context | Mediterranean / developing-country urban environment |
 

@@ -137,10 +137,21 @@ PalmCity/
 ├── images/
 │   ├── train/
 │   ├── val/
+|   ├── test/
 │
 ├── annotations/
-│   ├── train/
-│   ├── val/
+|   ├── cityscapes/
+|     ├── train/
+│     ├── val/
+|   ├── coco/
+|     ├── train/
+│     ├── val/
+|   ├── gt/
+│     ├── train/
+│     ├── val/
+|   ├── voc/
+|     ├── train/
+│     ├── val/
 │
 └── README.md
 ```

@@ -137,17 +137,14 @@ PalmCity/
 ├── images/
 │   ├── train/
 │   ├── val/
-│   └── test/
 │
 ├── annotations/
 │   ├── train/
 │   ├── val/
-│   └── test/
 │
 ├── splits/
 │   ├── train.txt
 │   ├── val.txt
-│   └── test.txt
 │
 ├── palmcity/
 │   ├── labels.py

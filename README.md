@@ -222,23 +222,15 @@ Example configuration files and data loaders will be provided in this repository
 
 PalmCity is intended to serve not only as a dataset but also as a benchmark for urban semantic segmentation.
 
-The benchmark evaluates representative CNN- and Transformer-based semantic segmentation architectures.
+The benchmark evaluates some representative CNN- and Transformer-based semantic segmentation architectures.
 
 | Model | Backbone | mIoU (%) | mF-1 Score (%) |
 |---|---|---:|---:|
 | FCN | `ResNet101` | `46.02` | `56.96` |
-| PSPNet | `{backbone}` | `{score}` | `{score}` |
-| DeepLabV3+ | `{backbone}` | `{score}` | `{score}` |
-| SegFormer | MiT-B3 | `{score}` | `{score}` | `{score}` |
-| `{Model}` | `{backbone}` | `{score}` | `{score}` |
+| PSPNet | `ResNet50` | `33.35` | `42.48` |
+| DeepLabV3+ | `ResNet50` | `42.23` | `52.40` |
 
-Detailed benchmark configurations and pretrained models will be released under:
-
-```text
-configs/
-checkpoints/
-benchmark/
-```
+Detailed benchmark configurations and pretrained models will be released after the challenge.
 
 ---
 

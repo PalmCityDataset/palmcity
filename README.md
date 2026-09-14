@@ -53,7 +53,7 @@ PalmCity can also be used to investigate the transferability of models trained o
 | Training Images | `497` |
 | Validation Images | `84` |
 | Test Images | `249` |
-| Image Resolution | `{ORIGINAL_RESOLUTION}` |
+| Image Resolution | `1024x512` |
 | Geographic Context | Mediterranean / developing-country urban environment |
 
 ---

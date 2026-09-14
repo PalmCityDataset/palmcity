@@ -390,13 +390,7 @@ If you use PalmCity in your research, please cite:
 
 ## 📜 License
 
-PalmCity is released for research and academic use according to the terms described in:
-
-`LICENSE.md`
-
-Users must review and accept the dataset license before redistribution or commercial use.
-
-Please note that the license governing the **dataset** and the license governing the **source code / utilities** may be different.
+PalmCity is released for research and academic use.
 
 ---
 

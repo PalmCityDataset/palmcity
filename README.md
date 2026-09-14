@@ -18,7 +18,7 @@ The dataset was collected in **Mersin, Türkiye**, and provides detailed pixel-l
 
 ---
 
-## 🏙️ About PalmCity
+## About PalmCity
 
 Existing urban scene understanding datasets such as Cityscapes have played a central role in the development of semantic segmentation algorithms. However, models trained predominantly on cities from developed countries may not fully represent the architectural characteristics, street morphology, transportation patterns, vegetation, street furniture, and heterogeneous urban structures encountered in other geographic regions.
 

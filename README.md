@@ -336,7 +336,7 @@ For questions related to PalmCity, dataset access, licensing, or research collab
 **PalmCity Research Team**
 
 Project Website:  
-[`<PROJECT_WEBSITE_URL>`](https://palmcity-dataset.com/)
+[`PalmCity Website`](https://palmcity-dataset.com/)
 
 Dataset Repository:  
 `<GITHUB_REPOSITORY_URL>`

@@ -6,7 +6,7 @@
 
 **Urban Scene Understanding • Panoramic Street View Imagery • Semantic Segmentation • GeoAI**
 
-`[ Project Website ]`  `[ Download Dataset ]`  `[ Paper ]`  `[ Benchmark ]`
+`[Project Website: https://palmcity-dataset.com/]`  `[ Download Dataset ]`  `[ Paper ]`  `[ Benchmark ]`
 
 ---
 

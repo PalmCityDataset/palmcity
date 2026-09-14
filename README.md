@@ -104,23 +104,27 @@ A detailed class definition table should be provided here using the official Pal
 
 ## 🖼️ Sample Annotations
 
-<div align="center">
+<table>
+  <tr>
+    <th width="50%">Panoramic Image</th>
+    <th width="50%">Ground-Truth Annotation</th>
+  </tr>
 
-### Original Image
+  <tr>
+    <td><img src="GS_0772.png" width="100%"></td>
+    <td><img src="GS_0772_color.png" width="100%"></td>
+  </tr>
 
-`[ PLACE ORIGINAL PANORAMIC IMAGE HERE ]`
+  <tr>
+    <td><img src="GS_1136.png" width="100%"></td>
+    <td><img src="GS_1136_color.png" width="100%"></td>
+  </tr>
 
-### Ground-Truth Semantic Annotation
-
-`[ PLACE COLORIZED SEMANTIC MASK HERE ]`
-
-### Image + Annotation
-
-`[ PLACE SIDE-BY-SIDE / OVERLAY EXAMPLE HERE ]`
-
-</div>
-
-3 tane eklenecek
+  <tr>
+    <td><img src="GS_2887.png" width="100%"></td>
+    <td><img src="GS_2887_color.png" width="100%"></td>
+  </tr>
+</table>
 
 ---
 

@@ -155,9 +155,9 @@ The PalmCity dataset can be downloaded from the official dataset distribution pa
 
 ### Dataset
 
-**PalmCity Images**
+**PalmCity Dataset**
 
-`<DATASET_IMAGE_DOWNLOAD_LINK>`
+`<DATASET_IMAGE_DOWNLOAD_LINK>`https://drive.google.com/drive/folders/1CKUzdQ8Tm74A6hHXWGd37NEI1JqTU7Jp
 
 **PalmCity Semantic Annotations**
 
@@ -168,14 +168,6 @@ The PalmCity dataset can be downloaded from the official dataset distribution pa
 `<FULL_DATASET_DOWNLOAD_LINK>`
 
 ### Additional Resources
-
-**Official Project Website**
-
-`<PROJECT_WEBSITE_URL>`
-
-**Label Definitions**
-
-`palmcity/labels.py`
 
 **Train / Validation / Test Splits**
 
@@ -321,9 +313,6 @@ For questions related to PalmCity, dataset access, licensing, or research collab
 
 Project Website:  
 [`PalmCity Website`](https://palmcity-dataset.com/)
-
-Dataset Repository:  
-`<GITHUB_REPOSITORY_URL>`
 
 Contact:  
 `<OFFICIAL_PROJECT_EMAIL>`

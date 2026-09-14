@@ -283,22 +283,6 @@ PalmCity + Cityscapes + other urban segmentation datasets
 
 ---
 
-## 🔬 Research
-
-The PalmCity project was introduced in:
-
-**PalmCity: An Emerging Benchmark Dataset for Semantic Segmentation of Panoramic Street View Images in Under-Represented Developing Countries**
-
-M. C. Iban, O. C. Bayrak, S. Kartal, D. Ilmak, and D. Z. Seker
-
-*Computational Science and Its Applications – ICCSA 2025 Workshops, Lecture Notes in Computer Science.*
-
-DOI:
-
-`10.1007/978-3-031-97663-6_14`
-
----
-
 ## 📝 Citation
 
 If you use PalmCity in your research, please cite:
@@ -343,24 +327,18 @@ Please note that the license governing the **dataset** and the license governing
 
 ## 🤝 Contributing
 
-We welcome reports regarding:
+We welcome reports regarding, including but not limtied to:
 
-- Incorrect annotations
 - Dataset loading problems
 - Evaluation issues
 - Documentation
 - Benchmark reproduction
-- New framework integrations
-
-Please use the GitHub **Issues** section for technical questions and bug reports.
 
 ---
 
 ## 📬 Contact
 
 For questions related to PalmCity, dataset access, licensing, or research collaboration:
-
-**PalmCity Research Team**
 
 Project Website:  
 [`PalmCity Website`](https://palmcity-dataset.com/)

@@ -64,40 +64,40 @@ PalmCity contains **32 semantic classes** representing major components of the u
 
 A detailed class definition table should be provided here using the official PalmCity label IDs.
 
-| ID | Class | Category | Color |
+| ID | Category | Class | Color |
 |---:|---|---|---|
-| 0 | Road | Flat Surface | ![#804080](https://placehold.co/15x15/804080/804080.png) `Road` |
-| 1 | Sidewalk | Flat Surface | ![#F423E8](https://placehold.co/15x15/F423E8/F423E8.png) `Sidewalk` |
-| 2 | Parking Lot | Flat Surface | ![#FAAAA0](https://placehold.co/15x15/FAAAA0/FAAAA0.png) `Parking Lot` |
-| 3 | Soil | Flat Surface | ![#C0B69A](https://placehold.co/15x15/C0B69A/C0B69A.png) `Soil` |
-| 4 | Pedestrian | Person | ![#DC143C](https://placehold.co/15x15/DC143C/DC143C.png) `Pedestrian` |
-| 5 | Driver | Person | ![#FF0000](https://placehold.co/15x15/FF0000/FF0000.png) `Driver` |
-| 6 | Car | Vehicle | ![#00008E](https://placehold.co/15x15/00008E/00008E.png) `Car` |
-| 7 | Truck | Vehicle | ![#000046](https://placehold.co/15x15/000046/000046.png) `Truck` |
-| 8 | Bus | Vehicle | ![#003C64](https://placehold.co/15x15/003C64/003C64.png) `Bus` |
-| 9 | Motorcycle | Vehicle | ![#0000E6](https://placehold.co/15x15/0000E6/0000E6.png) `Motorcycle` |
-| 10 | Bicycle | Vehicle | ![#770B20](https://placehold.co/15x15/770B20/770B20.png) `Bicycle` |
-| 11 | Traffic Light | Object | ![#FAAA1E](https://placehold.co/15x15/FAAA1E/FAAA1E.png) `Traffic Light` |
-| 12 | Traffic Sign | Object | ![#DCDC00](https://placehold.co/15x15/DCDC00/DCDC00.png) `Traffic Sign` |
-| 13 | Pole | Object | ![#999999](https://placehold.co/15x15/999999/999999.png) `Pole` |
-| 14 | Garbage Box | Object | ![#8991A9](https://placehold.co/15x15/8991A9/8991A9.png) `Garbage Box` |
-| 15 | Sitting Bench | Object | ![#91A199](https://placehold.co/15x15/91A199/91A199.png) `Sitting Bench` |
-| 16 | Infrastructure Cover | Object | ![#4A442A](https://placehold.co/15x15/4A442A/4A442A.png) `Infrastructure Cover` |
-| 17 | Infrastructure Box | Object | ![#365F91](https://placehold.co/15x15/365F91/365F91.png) `Infrastructure Box` |
-| 18 | Parking Barrier | Object | ![#FF8100](https://placehold.co/15x15/FF8100/FF8100.png) `Parking Barrier` |
-| 19 | Building | Construction | ![#464646](https://placehold.co/15x15/464646/464646.png) `Building` |
-| 20 | Wall | Construction | ![#66669C](https://placehold.co/15x15/66669C/66669C.png) `Wall` |
-| 21 | Fence | Construction | ![#BE9999](https://placehold.co/15x15/BE9999/BE9999.png) `Fence` |
-| 22 | Stairs | Construction | ![#D99594](https://placehold.co/15x15/D99594/D99594.png) `Stairs` |
-| 23 | Railing | Construction | ![#B4A5B4](https://placehold.co/15x15/B4A5B4/B4A5B4.png) `Railing` |
-| 24 | Overpass | Construction | ![#B2A1C7](https://placehold.co/15x15/B2A1C7/B2A1C7.png) `Overpass` |
-| 25 | Water Surface | Water Surface | ![#3366FF](https://placehold.co/15x15/3366FF/3366FF.png) `Water Surface` |
-| 26 | Sky | Sky | ![#4682B4](https://placehold.co/15x15/4682B4/4682B4.png) `Sky` |
-| 27 | Tree | Green Area | ![#6B8E23](https://placehold.co/15x15/6B8E23/6B8E23.png) `Tree` |
-| 28 | Grass | Green Area | ![#C2D69B](https://placehold.co/15x15/C2D69B/C2D69B.png) `Grass` |
-| 29 | Pruned Tree | Green Area | ![#00B050](https://placehold.co/15x15/00B050/00B050.png) `Pruned Tree` |
-| 30 | Operator and Shadow | Operator and Shadow | ![#00001E](https://placehold.co/15x15/00001E/00001E.png) `Operator and Shadow` |
-| 31 | Void | Void | ![#000000](https://placehold.co/15x15/000000/000000.png) `Void` |
+| 0 | Flat Surface | Road | ![#804080](https://placehold.co/15x15/804080/804080.png) |
+| 1 | Flat Surface | Sidewalk | ![#F423E8](https://placehold.co/15x15/F423E8/F423E8.png) |
+| 2 | Flat Surface | Parking Lot | ![#FAAAA0](https://placehold.co/15x15/FAAAA0/FAAAA0.png) |
+| 3 | Flat Surface | Soil | ![#C0B69A](https://placehold.co/15x15/C0B69A/C0B69A.png) |
+| 4 | Person | Pedestrian | ![#DC143C](https://placehold.co/15x15/DC143C/DC143C.png) |
+| 5 | Person | Driver | ![#FF0000](https://placehold.co/15x15/FF0000/FF0000.png) |
+| 6 | Vehicle | Car | ![#00008E](https://placehold.co/15x15/00008E/00008E.png) |
+| 7 | Vehicle | Truck | ![#000046](https://placehold.co/15x15/000046/000046.png) |
+| 8 | Vehicle | Bus | ![#003C64](https://placehold.co/15x15/003C64/003C64.png) |
+| 9 | Vehicle | Motorcycle | ![#0000E6](https://placehold.co/15x15/0000E6/0000E6.png) |
+| 10 | Vehicle | Bicycle | ![#770B20](https://placehold.co/15x15/770B20/770B20.png) |
+| 11 | Object | Traffic Light | ![#FAAA1E](https://placehold.co/15x15/FAAA1E/FAAA1E.png) |
+| 12 | Object | Traffic Sign | ![#DCDC00](https://placehold.co/15x15/DCDC00/DCDC00.png) |
+| 13 | Object | Pole | ![#999999](https://placehold.co/15x15/999999/999999.png) |
+| 14 | Object | Garbage Box | ![#8991A9](https://placehold.co/15x15/8991A9/8991A9.png) |
+| 15 | Object | Sitting Bench | ![#91A199](https://placehold.co/15x15/91A199/91A199.png) |
+| 16 | Object | Infrastructure Cover | ![#4A442A](https://placehold.co/15x15/4A442A/4A442A.png) |
+| 17 | Object | Infrastructure Box | ![#365F91](https://placehold.co/15x15/365F91/365F91.png) |
+| 18 | Object | Parking Barrier | ![#FF8100](https://placehold.co/15x15/FF8100/FF8100.png) |
+| 19 | Construction | Building | ![#464646](https://placehold.co/15x15/464646/464646.png) |
+| 20 | Construction | Wall | ![#66669C](https://placehold.co/15x15/66669C/66669C.png) |
+| 21 | Construction | Fence | ![#BE9999](https://placehold.co/15x15/BE9999/BE9999.png) |
+| 22 | Construction | Stairs | ![#D99594](https://placehold.co/15x15/D99594/D99594.png) |
+| 23 | Construction | Railing | ![#B4A5B4](https://placehold.co/15x15/B4A5B4/B4A5B4.png) |
+| 24 | Construction | Overpass | ![#B2A1C7](https://placehold.co/15x15/B2A1C7/B2A1C7.png) |
+| 25 | Water Surface | Water Surface | ![#3366FF](https://placehold.co/15x15/3366FF/3366FF.png) |
+| 26 | Sky | Sky | ![#4682B4](https://placehold.co/15x15/4682B4/4682B4.png) |
+| 27 | Green Area | Tree | ![#6B8E23](https://placehold.co/15x15/6B8E23/6B8E23.png) |
+| 28 | Green Area | Grass | ![#C2D69B](https://placehold.co/15x15/C2D69B/C2D69B.png) |
+| 29 | Green Area | Pruned Tree | ![#00B050](https://placehold.co/15x15/00B050/00B050.png) |
+| 30 | Operator and Shadow | Operator and Shadow | ![#00001E](https://placehold.co/15x15/00001E/00001E.png) |
+| 31 | Void | Void | ![#000000](https://placehold.co/15x15/000000/000000.png) |
 
 The complete class definitions, label IDs, training IDs, visualization colors, and ignored labels are available in:
 

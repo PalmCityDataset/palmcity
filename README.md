@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="./assets/palmcity_logo.png" width="180"> PalmCity
+# <img src="./assets/palmcity_logo.tiff" width="180"> PalmCity
 
 ### A Benchmark Dataset for Semantic Segmentation of Panoramic Urban Street View Images
 

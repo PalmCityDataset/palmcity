@@ -99,9 +99,6 @@ A detailed class definition table should be provided here using the official Pal
 | 30 | Operator and Shadow | Operator and Shadow | ![#00001E](https://placehold.co/15x15/00001E/00001E.png) |
 | 31 | Void | Void | ![#000000](https://placehold.co/15x15/000000/000000.png) |
 
-The complete class definitions, label IDs, training IDs, visualization colors, and ignored labels are available in:
-
-`palmcity/labels.py`
 
 ---
 
@@ -123,7 +120,7 @@ The complete class definitions, label IDs, training IDs, visualization colors, a
 
 </div>
 
-We strongly recommend including at least **three different urban scenes** here so that visitors immediately understand the visual diversity of PalmCity.
+3 tane eklenecek
 
 ---
 
@@ -168,15 +165,6 @@ The PalmCity dataset can be downloaded from the link given below.
 
 **[PalmCity Dataset](https://drive.google.com/drive/folders/1CKUzdQ8Tm74A6hHXWGd37NEI1JqTU7Jp)**
 
-### Additional Resources
-
-**Train / Validation / Test Splits**
-
-`splits/`
-
-Please read the **License and Terms of Use** before downloading or using PalmCity.
-
----
 
 ## 🚀 Getting Started
 
@@ -186,29 +174,6 @@ Clone the repository:
 git clone <PALMCITY_GITHUB_REPOSITORY>
 cd PalmCity
 ```
-
-After downloading the dataset, define the PalmCity root directory:
-
-```text
-PALMCITY_ROOT=/path/to/PalmCity
-```
-
-A typical training configuration can then reference:
-
-```text
-images/train/
-annotations/train/
-
-images/val/
-annotations/val/
-```
-
-PalmCity can be integrated into common semantic segmentation frameworks such as:
-
-**PaddleSeg • MMSegmentation • PyTorch • TensorFlow**
-
-Example configuration files and data loaders will be provided in this repository.
-
 ---
 
 ## 🧠 Benchmark

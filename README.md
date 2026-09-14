@@ -274,11 +274,9 @@ We welcome reports regarding, including but not limtied to:
 
 For questions related to PalmCity, dataset access, licensing, or research collaboration:
 
-Project Website:  
-[`PalmCity Website`](https://palmcity-dataset.com/)
 
 Contact:  
-`<OFFICIAL_PROJECT_EMAIL>`
+` can@palmcity-dataset.com`
 
 ---
 

@@ -207,19 +207,11 @@ The dataset therefore enables researchers to investigate:
 
 **Cross-city generalization**
 
-Cityscapes → PalmCity
-
 **Cross-domain robustness**
-
-Models trained on conventional street-scene datasets → panoramic Turkish urban scenes
 
 **Dataset-specific training**
 
-PalmCity → PalmCity
-
 **Multi-dataset learning**
-
-PalmCity + Cityscapes + other urban segmentation datasets
 
 ---
 

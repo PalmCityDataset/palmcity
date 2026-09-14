@@ -157,7 +157,7 @@ The PalmCity dataset can be downloaded from the official dataset distribution pa
 
 **PalmCity Dataset**
 
-`<DATASET_IMAGE_DOWNLOAD_LINK>`https://drive.google.com/drive/folders/1CKUzdQ8Tm74A6hHXWGd37NEI1JqTU7Jp
+`<[DATASET_IMAGE_DOWNLOAD_LINK](https://drive.google.com/drive/folders/1CKUzdQ8Tm74A6hHXWGd37NEI1JqTU7Jp)>`
 
 **PalmCity Semantic Annotations**
 

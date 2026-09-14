@@ -298,24 +298,7 @@ If you use PalmCity in your research, please cite:
 
 ---
 
-## 👥 PalmCity Team
 
-PalmCity is developed through a collaborative research effort involving researchers from multiple institutions.
-
-**Muzaffer Can Iban**  
-Mersin University
-
-**Onur Can Bayrak**  
-Yıldız Technical University
-
-**Serkan Kartal**
-
-**Dogu Ilmak**
-
-**Dursun Zafer Seker**  
-Istanbul Technical University
-
-`[Additional PalmCity project members can be listed here according to the official project website.]`
 
 ---
 

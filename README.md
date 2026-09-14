@@ -431,3 +431,9 @@ Contact:
 Panoramic Street View Imagery · Semantic Segmentation · GeoAI · Urban Analytics
 
 </div>
+
+---
+
+## 💰 Funding
+
+This work was supported by the Scientific and Technological Research Council of Türkiye (TÜBİTAK) through the **3501 Career Development Program** under Project No. **124Y224**.

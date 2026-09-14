@@ -282,7 +282,7 @@ For questions related to PalmCity, dataset access, licensing, or research collab
 
 
 Contact:  
-`can@palmcity-dataset.com`
+`admin@palmcity-dataset.com`
 
 ---
 

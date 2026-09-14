@@ -396,7 +396,7 @@ PalmCity is released for research and academic use.
 
 ## 🤝 Contributing
 
-We welcome reports regarding, including but not limtied to:
+We welcome reports regarding, including but not limited to:
 
 - Dataset loading problems
 - Evaluation issues

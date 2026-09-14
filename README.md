@@ -111,28 +111,28 @@ A detailed class definition table should be provided here using the official Pal
 
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/PalmCityDataset/palmcity/main/GS_0772.png" width="100%">
+      <img src="https://raw.githubusercontent.com/PalmCityDataset/palmcity/main/GS__0772.png" width="100%">
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/PalmCityDataset/palmcity/main/GS_0772_color.png" width="100%">
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/PalmCityDataset/palmcity/main/GS_1136.png" width="100%">
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/PalmCityDataset/palmcity/main/GS_1136_color.png" width="100%">
+      <img src="https://raw.githubusercontent.com/PalmCityDataset/palmcity/main/GS__0772_color.png" width="100%">
     </td>
   </tr>
 
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/PalmCityDataset/palmcity/main/GS_2887.png" width="100%">
+      <img src="https://raw.githubusercontent.com/PalmCityDataset/palmcity/main/GS__1136.png" width="100%">
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/PalmCityDataset/palmcity/main/GS_2887_color.png" width="100%">
+      <img src="https://raw.githubusercontent.com/PalmCityDataset/palmcity/main/GS__1136_color.png" width="100%">
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/PalmCityDataset/palmcity/main/GS__2887.png" width="100%">
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/PalmCityDataset/palmcity/main/GS__2887_color.png" width="100%">
     </td>
   </tr>
 </table>

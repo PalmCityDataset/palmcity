@@ -309,7 +309,6 @@ PalmCity/
 |     ├── train/
 │     ├── val/
 │
-└── README.md
 ```
 
 Each semantic annotation image contains the pixel-wise class labels corresponding to its associated panoramic RGB image. 'gt' folder includes annotation images. For support reproducility, we also share various annotation formats such as cityscapes, coco, and voc. Test annotations will be released after the challenge. 

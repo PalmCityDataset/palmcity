@@ -417,7 +417,7 @@ Contact:
 
 <div align="center">
 
-### 🌴 PalmCity
+### <img src="./assets/palmcity_logo.tiff" width="60">
 
 **Understanding cities beyond conventional benchmarks.**
 

@@ -139,8 +139,6 @@ PalmCity contains **32 semantic classes** representing major components of the u
 
 ## 📁 Dataset Structure
 
-PalmCity follows a simple Cityscapes-inspired organization.
-
 ```text
 PalmCity/
 │

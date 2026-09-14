@@ -142,16 +142,6 @@ PalmCity/
 │   ├── train/
 │   ├── val/
 │
-├── splits/
-│   ├── train.txt
-│   ├── val.txt
-│
-├── palmcity/
-│   ├── labels.py
-│   ├── visualization.py
-│   ├── preparation.py
-│   └── evaluation.py
-│
 └── README.md
 ```
 

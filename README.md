@@ -99,7 +99,6 @@ A detailed class definition table should be provided here using the official Pal
 | 30 | Operator and Shadow | Operator and Shadow | ![#00001E](https://placehold.co/15x15/00001E/00001E.png) |
 | 31 | Void | Void | ![#000000](https://placehold.co/15x15/000000/000000.png) |
 
-
 ---
 
 ## 🖼️ Sample Annotations
@@ -111,18 +110,30 @@ A detailed class definition table should be provided here using the official Pal
   </tr>
 
   <tr>
-    <td><img src="GS_0772.png" width="100%"></td>
-    <td><img src="GS_0772_color.png" width="100%"></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/PalmCityDataset/palmcity/main/GS_0772.png" width="100%">
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/PalmCityDataset/palmcity/main/GS_0772_color.png" width="100%">
+    </td>
   </tr>
 
   <tr>
-    <td><img src="GS_1136.png" width="100%"></td>
-    <td><img src="GS_1136_color.png" width="100%"></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/PalmCityDataset/palmcity/main/GS_1136.png" width="100%">
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/PalmCityDataset/palmcity/main/GS_1136_color.png" width="100%">
+    </td>
   </tr>
 
   <tr>
-    <td><img src="GS_2887.png" width="100%"></td>
-    <td><img src="GS_2887_color.png" width="100%"></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/PalmCityDataset/palmcity/main/GS_2887.png" width="100%">
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/PalmCityDataset/palmcity/main/GS_2887_color.png" width="100%">
+    </td>
   </tr>
 </table>
 

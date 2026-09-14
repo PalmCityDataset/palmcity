@@ -224,13 +224,13 @@ PalmCity is intended to serve not only as a dataset but also as a benchmark for 
 
 The benchmark evaluates representative CNN- and Transformer-based semantic segmentation architectures.
 
-| Model | Backbone | mIoU | mAcc | OA |
-|---|---|---:|---:|---:|
-| FCN | `{backbone}` | `{score}` | `{score}` | `{score}` |
-| PSPNet | `{backbone}` | `{score}` | `{score}` | `{score}` |
-| DeepLabV3+ | `{backbone}` | `{score}` | `{score}` | `{score}` |
+| Model | Backbone | mIoU (%) | mF-1 Score (%) |
+|---|---|---:|---:|
+| FCN | `ResNet101` | `46.02` | `56.96` |
+| PSPNet | `{backbone}` | `{score}` | `{score}` |
+| DeepLabV3+ | `{backbone}` | `{score}` | `{score}` |
 | SegFormer | MiT-B3 | `{score}` | `{score}` | `{score}` |
-| `{Model}` | `{backbone}` | `{score}` | `{score}` | `{score}` |
+| `{Model}` | `{backbone}` | `{score}` | `{score}` |
 
 Detailed benchmark configurations and pretrained models will be released under:
 

@@ -417,7 +417,7 @@ Contact:
 
 <div align="center">
 
-### <img src="./assets/palmcity_logo.tiff" width="60">
+### <img src="./assets/palmcity_logo.tiff" width="120">
 
 **Understanding cities beyond conventional benchmarks.**
 

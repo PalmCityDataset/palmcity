@@ -276,7 +276,7 @@ For questions related to PalmCity, dataset access, licensing, or research collab
 
 
 Contact:  
-` can@palmcity-dataset.com`
+`can@palmcity-dataset.com`
 
 ---
 

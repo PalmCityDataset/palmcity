@@ -63,207 +63,186 @@ PalmCity can also be used to investigate the transferability of models trained o
 PalmCity contains **32 semantic classes** representing major components of the urban environment.
 
 <table>
-  <thead>
-    <tr>
-      <th align="center">ID</th>
-      <th align="center">Category</th>
-      <th align="center">Class</th>
-      <th align="center">Color</th>
-    </tr>
-  </thead>
-  <tbody>
-
-    <!-- Flat Surface -->
-    <tr>
-      <td align="center">0</td>
-      <td align="center" rowspan="4"><b>Flat Surface</b></td>
-      <td align="center">Road</td>
-      <td align="center"><img src="https://placehold.co/15x15/804080/804080.png"></td>
-    </tr>
-    <tr>
-      <td align="center">1</td>
-      <td align="center">Sidewalk</td>
-      <td align="center"><img src="https://placehold.co/15x15/F423E8/F423E8.png"></td>
-    </tr>
-    <tr>
-      <td align="center">2</td>
-      <td align="center">Parking Lot</td>
-      <td align="center"><img src="https://placehold.co/15x15/FAAAA0/FAAAA0.png"></td>
-    </tr>
-    <tr>
-      <td align="center">3</td>
-      <td align="center">Soil</td>
-      <td align="center"><img src="https://placehold.co/15x15/C0B69A/C0B69A.png"></td>
-    </tr>
-
-    <!-- Person -->
-    <tr>
-      <td align="center">4</td>
-      <td align="center" rowspan="2"><b>Person</b></td>
-      <td align="center">Pedestrian</td>
-      <td align="center"><img src="https://placehold.co/15x15/DC143C/DC143C.png"></td>
-    </tr>
-    <tr>
-      <td align="center">5</td>
-      <td align="center">Driver</td>
-      <td align="center"><img src="https://placehold.co/15x15/FF0000/FF0000.png"></td>
-    </tr>
-
-    <!-- Vehicle -->
-    <tr>
-      <td align="center">6</td>
-      <td align="center" rowspan="5"><b>Vehicle</b></td>
-      <td align="center">Car</td>
-      <td align="center"><img src="https://placehold.co/15x15/00008E/00008E.png"></td>
-    </tr>
-    <tr>
-      <td align="center">7</td>
-      <td align="center">Truck</td>
-      <td align="center"><img src="https://placehold.co/15x15/000046/000046.png"></td>
-    </tr>
-    <tr>
-      <td align="center">8</td>
-      <td align="center">Bus</td>
-      <td align="center"><img src="https://placehold.co/15x15/003C64/003C64.png"></td>
-    </tr>
-    <tr>
-      <td align="center">9</td>
-      <td align="center">Motorcycle</td>
-      <td align="center"><img src="https://placehold.co/15x15/0000E6/0000E6.png"></td>
-    </tr>
-    <tr>
-      <td align="center">10</td>
-      <td align="center">Bicycle</td>
-      <td align="center"><img src="https://placehold.co/15x15/770B20/770B20.png"></td>
-    </tr>
-
-    <!-- Object -->
-    <tr>
-      <td align="center">11</td>
-      <td align="center" rowspan="8"><b>Object</b></td>
-      <td align="center">Traffic Light</td>
-      <td align="center"><img src="https://placehold.co/15x15/FAAA1E/FAAA1E.png"></td>
-    </tr>
-    <tr>
-      <td align="center">12</td>
-      <td align="center">Traffic Sign</td>
-      <td align="center"><img src="https://placehold.co/15x15/DCDC00/DCDC00.png"></td>
-    </tr>
-    <tr>
-      <td align="center">13</td>
-      <td align="center">Pole</td>
-      <td align="center"><img src="https://placehold.co/15x15/999999/999999.png"></td>
-    </tr>
-    <tr>
-      <td align="center">14</td>
-      <td align="center">Garbage Box</td>
-      <td align="center"><img src="https://placehold.co/15x15/8991A9/8991A9.png"></td>
-    </tr>
-    <tr>
-      <td align="center">15</td>
-      <td align="center">Sitting Bench</td>
-      <td align="center"><img src="https://placehold.co/15x15/91A199/91A199.png"></td>
-    </tr>
-    <tr>
-      <td align="center">16</td>
-      <td align="center">Infrastructure Cover</td>
-      <td align="center"><img src="https://placehold.co/15x15/4A442A/4A442A.png"></td>
-    </tr>
-    <tr>
-      <td align="center">17</td>
-      <td align="center">Infrastructure Box</td>
-      <td align="center"><img src="https://placehold.co/15x15/365F91/365F91.png"></td>
-    </tr>
-    <tr>
-      <td align="center">18</td>
-      <td align="center">Parking Barrier</td>
-      <td align="center"><img src="https://placehold.co/15x15/FF8100/FF8100.png"></td>
-    </tr>
-
-    <!-- Construction -->
-    <tr>
-      <td align="center">19</td>
-      <td align="center" rowspan="6"><b>Construction</b></td>
-      <td align="center">Building</td>
-      <td align="center"><img src="https://placehold.co/15x15/464646/464646.png"></td>
-    </tr>
-    <tr>
-      <td align="center">20</td>
-      <td align="center">Wall</td>
-      <td align="center"><img src="https://placehold.co/15x15/66669C/66669C.png"></td>
-    </tr>
-    <tr>
-      <td align="center">21</td>
-      <td align="center">Fence</td>
-      <td align="center"><img src="https://placehold.co/15x15/BE9999/BE9999.png"></td>
-    </tr>
-    <tr>
-      <td align="center">22</td>
-      <td align="center">Stairs</td>
-      <td align="center"><img src="https://placehold.co/15x15/D99594/D99594.png"></td>
-    </tr>
-    <tr>
-      <td align="center">23</td>
-      <td align="center">Railing</td>
-      <td align="center"><img src="https://placehold.co/15x15/B4A5B4/B4A5B4.png"></td>
-    </tr>
-    <tr>
-      <td align="center">24</td>
-      <td align="center">Overpass</td>
-      <td align="center"><img src="https://placehold.co/15x15/B2A1C7/B2A1C7.png"></td>
-    </tr>
-
-    <!-- Water Surface -->
-    <tr>
-      <td align="center">25</td>
-      <td align="center"><b>Water Surface</b></td>
-      <td align="center">Water Surface</td>
-      <td align="center"><img src="https://placehold.co/15x15/3366FF/3366FF.png"></td>
-    </tr>
-
-    <!-- Sky -->
-    <tr>
-      <td align="center">26</td>
-      <td align="center"><b>Sky</b></td>
-      <td align="center">Sky</td>
-      <td align="center"><img src="https://placehold.co/15x15/4682B4/4682B4.png"></td>
-    </tr>
-
-    <!-- Green Area -->
-    <tr>
-      <td align="center">27</td>
-      <td align="center" rowspan="3"><b>Green Area</b></td>
-      <td align="center">Tree</td>
-      <td align="center"><img src="https://placehold.co/15x15/6B8E23/6B8E23.png"></td>
-    </tr>
-    <tr>
-      <td align="center">28</td>
-      <td align="center">Grass</td>
-      <td align="center"><img src="https://placehold.co/15x15/C2D69B/C2D69B.png"></td>
-    </tr>
-    <tr>
-      <td align="center">29</td>
-      <td align="center">Pruned Tree</td>
-      <td align="center"><img src="https://placehold.co/15x15/00B050/00B050.png"></td>
-    </tr>
-
-    <!-- Operator and Shadow -->
-    <tr>
-      <td align="center">30</td>
-      <td align="center"><b>Operator and Shadow</b></td>
-      <td align="center">Operator and Shadow</td>
-      <td align="center"><img src="https://placehold.co/15x15/00001E/00001E.png"></td>
-    </tr>
-
-    <!-- Void -->
-    <tr>
-      <td align="center">31</td>
-      <td align="center"><b>Void</b></td>
-      <td align="center">Void</td>
-      <td align="center"><img src="https://placehold.co/15x15/000000/000000.png"></td>
-    </tr>
-
-  </tbody>
+<thead>
+<tr>
+<th align="center">ID</th>
+<th align="center">Category</th>
+<th align="center">Class</th>
+<th align="center">Color</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">0</td>
+<td align="center" rowspan="4"><b>Flat Surface</b></td>
+<td align="center">Road</td>
+<td align="center"><img src="https://placehold.co/15x15/804080/804080.png"></td>
+</tr>
+<tr>
+<td align="center">1</td>
+<td align="center">Sidewalk</td>
+<td align="center"><img src="https://placehold.co/15x15/F423E8/F423E8.png"></td>
+</tr>
+<tr>
+<td align="center">2</td>
+<td align="center">Parking Lot</td>
+<td align="center"><img src="https://placehold.co/15x15/FAAAA0/FAAAA0.png"></td>
+</tr>
+<tr>
+<td align="center">3</td>
+<td align="center">Soil</td>
+<td align="center"><img src="https://placehold.co/15x15/C0B69A/C0B69A.png"></td>
+</tr>
+<tr>
+<td align="center">4</td>
+<td align="center" rowspan="2"><b>Person</b></td>
+<td align="center">Pedestrian</td>
+<td align="center"><img src="https://placehold.co/15x15/DC143C/DC143C.png"></td>
+</tr>
+<tr>
+<td align="center">5</td>
+<td align="center">Driver</td>
+<td align="center"><img src="https://placehold.co/15x15/FF0000/FF0000.png"></td>
+</tr>
+<tr>
+<td align="center">6</td>
+<td align="center" rowspan="5"><b>Vehicle</b></td>
+<td align="center">Car</td>
+<td align="center"><img src="https://placehold.co/15x15/00008E/00008E.png"></td>
+</tr>
+<tr>
+<td align="center">7</td>
+<td align="center">Truck</td>
+<td align="center"><img src="https://placehold.co/15x15/000046/000046.png"></td>
+</tr>
+<tr>
+<td align="center">8</td>
+<td align="center">Bus</td>
+<td align="center"><img src="https://placehold.co/15x15/003C64/003C64.png"></td>
+</tr>
+<tr>
+<td align="center">9</td>
+<td align="center">Motorcycle</td>
+<td align="center"><img src="https://placehold.co/15x15/0000E6/0000E6.png"></td>
+</tr>
+<tr>
+<td align="center">10</td>
+<td align="center">Bicycle</td>
+<td align="center"><img src="https://placehold.co/15x15/770B20/770B20.png"></td>
+</tr>
+<tr>
+<td align="center">11</td>
+<td align="center" rowspan="8"><b>Object</b></td>
+<td align="center">Traffic Light</td>
+<td align="center"><img src="https://placehold.co/15x15/FAAA1E/FAAA1E.png"></td>
+</tr>
+<tr>
+<td align="center">12</td>
+<td align="center">Traffic Sign</td>
+<td align="center"><img src="https://placehold.co/15x15/DCDC00/DCDC00.png"></td>
+</tr>
+<tr>
+<td align="center">13</td>
+<td align="center">Pole</td>
+<td align="center"><img src="https://placehold.co/15x15/999999/999999.png"></td>
+</tr>
+<tr>
+<td align="center">14</td>
+<td align="center">Garbage Box</td>
+<td align="center"><img src="https://placehold.co/15x15/8991A9/8991A9.png"></td>
+</tr>
+<tr>
+<td align="center">15</td>
+<td align="center">Sitting Bench</td>
+<td align="center"><img src="https://placehold.co/15x15/91A199/91A199.png"></td>
+</tr>
+<tr>
+<td align="center">16</td>
+<td align="center">Infrastructure Cover</td>
+<td align="center"><img src="https://placehold.co/15x15/4A442A/4A442A.png"></td>
+</tr>
+<tr>
+<td align="center">17</td>
+<td align="center">Infrastructure Box</td>
+<td align="center"><img src="https://placehold.co/15x15/365F91/365F91.png"></td>
+</tr>
+<tr>
+<td align="center">18</td>
+<td align="center">Parking Barrier</td>
+<td align="center"><img src="https://placehold.co/15x15/FF8100/FF8100.png"></td>
+</tr>
+<tr>
+<td align="center">19</td>
+<td align="center" rowspan="6"><b>Construction</b></td>
+<td align="center">Building</td>
+<td align="center"><img src="https://placehold.co/15x15/464646/464646.png"></td>
+</tr>
+<tr>
+<td align="center">20</td>
+<td align="center">Wall</td>
+<td align="center"><img src="https://placehold.co/15x15/66669C/66669C.png"></td>
+</tr>
+<tr>
+<td align="center">21</td>
+<td align="center">Fence</td>
+<td align="center"><img src="https://placehold.co/15x15/BE9999/BE9999.png"></td>
+</tr>
+<tr>
+<td align="center">22</td>
+<td align="center">Stairs</td>
+<td align="center"><img src="https://placehold.co/15x15/D99594/D99594.png"></td>
+</tr>
+<tr>
+<td align="center">23</td>
+<td align="center">Railing</td>
+<td align="center"><img src="https://placehold.co/15x15/B4A5B4/B4A5B4.png"></td>
+</tr>
+<tr>
+<td align="center">24</td>
+<td align="center">Overpass</td>
+<td align="center"><img src="https://placehold.co/15x15/B2A1C7/B2A1C7.png"></td>
+</tr>
+<tr>
+<td align="center">25</td>
+<td align="center"><b>Water Surface</b></td>
+<td align="center">Water Surface</td>
+<td align="center"><img src="https://placehold.co/15x15/3366FF/3366FF.png"></td>
+</tr>
+<tr>
+<td align="center">26</td>
+<td align="center"><b>Sky</b></td>
+<td align="center">Sky</td>
+<td align="center"><img src="https://placehold.co/15x15/4682B4/4682B4.png"></td>
+</tr>
+<tr>
+<td align="center">27</td>
+<td align="center" rowspan="3"><b>Green Area</b></td>
+<td align="center">Tree</td>
+<td align="center"><img src="https://placehold.co/15x15/6B8E23/6B8E23.png"></td>
+</tr>
+<tr>
+<td align="center">28</td>
+<td align="center">Grass</td>
+<td align="center"><img src="https://placehold.co/15x15/C2D69B/C2D69B.png"></td>
+</tr>
+<tr>
+<td align="center">29</td>
+<td align="center">Pruned Tree</td>
+<td align="center"><img src="https://placehold.co/15x15/00B050/00B050.png"></td>
+</tr>
+<tr>
+<td align="center">30</td>
+<td align="center"><b>Operator and Shadow</b></td>
+<td align="center">Operator and Shadow</td>
+<td align="center"><img src="https://placehold.co/15x15/00001E/00001E.png"></td>
+</tr>
+<tr>
+<td align="center">31</td>
+<td align="center"><b>Void</b></td>
+<td align="center">Void</td>
+<td align="center"><img src="https://placehold.co/15x15/000000/000000.png"></td>
+</tr>
+</tbody>
 </table>
 
 ---

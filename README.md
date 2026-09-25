@@ -390,7 +390,7 @@ If you use PalmCity in your research, please cite:
 
 ## 📜 License
 
-PalmCity is released for research and academic use.
+PalmCity is released under a non-commercial license for research and academic use.
 
 ---
 

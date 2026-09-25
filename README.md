@@ -6,7 +6,7 @@
 
 **Urban Scene Understanding • Panoramic Street View Imagery • Semantic Segmentation • GeoAI**
 
-[Project Website](https://palmcity-dataset.com/)  [Download Dataset](https://drive.google.com/drive/folders/1CKUzdQ8Tm74A6hHXWGd37NEI1JqTU7Jp)  [Paper](https://link.springer.com/chapter/10.1007/978-3-031-97663-6_14)
+[Project Website](https://palmcity-dataset.com/)  [Download Dataset](https://drive.google.com/drive/folders/1CKUzdQ8Tm74A6hHXWGd37NEI1JqTU7Jp) [Challenge](https://www.codabench.org/competitions/18192/?secret_key=f4ecc0f4-32ef-48a3-aef5-2ff54ae926cb#/pages-tab) [Paper](https://link.springer.com/chapter/10.1007/978-3-031-97663-6_14)
 
 ---
 
